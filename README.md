@@ -2,7 +2,7 @@
 VIT AP DANCE CLUB WEB APP
 
 # TERMS AND CONDITIONS | TC
-<h2>Will be update soon</h2>
+<h2>Will be updated soon</h2>
 
 # CODE IS NOT OPEN SOURCED YET
 
